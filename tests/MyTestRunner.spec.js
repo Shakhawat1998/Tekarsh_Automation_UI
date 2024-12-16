@@ -1,0 +1,27 @@
+const { test } = require('@playwright/test');
+const LoginPage = require('../pages/LoginPage');
+const SignUpPage = require('../pages/SignUpPage');
+const AccountCreatedPage = require('../pages/AccountCreatedPage');
+const ProductsPage = require('../pages/ProductsPage');
+const CategoryProductPage = require('../pages/CategoryProductPage');
+const CartPage = require('../pages/CartPage');
+const ContactPage = require('../pages/ContactPage');
+test('Regression Test on AutomationExercise', async ({ page }) => {
+    const loginPage = new LoginPage(page);
+    await loginPage.gotoLoginPage();
+    await loginPage.gotoSignUpPage();
+    const signUpPage = new SignUpPage(page);
+    await signUpPage.doCreateAcoount();
+    await signUpPage.validateSignup();
+    const accountCreatedPage = new AccountCreatedPage(page);
+    await accountCreatedPage.gotoProductPage();
+    const productsPage = new ProductsPage(page);
+    await productsPage.gotoMensJeansProductPage();
+    const categoryProductPage = new CategoryProductPage(page);
+    await categoryProductPage.addToCart();
+    const cartPage = new CartPage(page);
+    await cartPage.addToCart();
+    await cartPage.gotoContactPage();
+    const contactPage = new ContactPage(page);
+    await contactPage.submitContactUs();
+});
