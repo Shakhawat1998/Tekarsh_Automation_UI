@@ -55,14 +55,13 @@
  ## Playright Report:
 
 ![image](https://github.com/user-attachments/assets/6f533eef-0464-473f-b42c-88e0300943d9)
-![image](https://github.com/user-attachments/assets/161ce915-a609-4eab-a8e8-9530a9e2ef75)
-![image](https://github.com/user-attachments/assets/2db5657f-ce59-4418-9614-c9ee3422831c)
+
+
 
 
 
 
 ## Video Output:
-
 
 
 https://github.com/user-attachments/assets/b1f7312d-160b-41c6-ade6-3eba4fa7f845
