@@ -52,7 +52,7 @@
    - Attach a file (any type).
    - Verify the form submission.
 
- ## Playright Report:
+ ## Report:
 
 ![image](https://github.com/user-attachments/assets/6f533eef-0464-473f-b42c-88e0300943d9)
 
@@ -63,7 +63,10 @@
 
 ## Video Output:
 
-https://github.com/user-attachments/assets/4799c7fc-57b2-47b8-8bfb-77d0bef630c0
+
+
+https://github.com/user-attachments/assets/348164e1-4b47-40f9-9c29-da294142b6ef
+
 
 
 
