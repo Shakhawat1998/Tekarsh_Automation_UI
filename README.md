@@ -1,4 +1,5 @@
-# Tekarsh UI Automation
+# UI_Automation_On_Automation_Exercise_Using_Playwright
+
 
 **This project focuses on automating key user workflows on the **Automation Exercise** platform to ensure the application functions as expected across critical scenarios. The goal is to validate user registration, product selection, order placement, and contact form submission through end-to-end UI testing.**
 
