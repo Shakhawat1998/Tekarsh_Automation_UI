@@ -52,9 +52,13 @@
    - Attach a file (any type).
    - Verify the form submission.
 
- ## Mochawesome Report:
- 
-![Screenshot (46)](https://user-images.githubusercontent.com/123433625/228039868-767c8209-279e-4078-910f-c4ec993b51ed.png)
+ ## Playright Report:
+
+![image](https://github.com/user-attachments/assets/6f533eef-0464-473f-b42c-88e0300943d9)
+![image](https://github.com/user-attachments/assets/161ce915-a609-4eab-a8e8-9530a9e2ef75)
+![image](https://github.com/user-attachments/assets/2db5657f-ce59-4418-9614-c9ee3422831c)
+
+
 
 
 ## Video Output:
